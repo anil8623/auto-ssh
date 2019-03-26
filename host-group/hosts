@@ -1,0 +1,7 @@
+tances]
+node1
+node2
+
+[instances:vars]
+user_name=ansadm
+user_des="admin user"

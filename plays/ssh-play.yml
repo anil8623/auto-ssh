@@ -1,0 +1,9 @@
+---
+
+  - hosts: team1
+    gather_facts: False
+    remote_user: ansadm
+    become: true
+    become_user: root
+    roles:
+      - auto-ssh
